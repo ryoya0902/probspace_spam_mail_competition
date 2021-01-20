@@ -12,3 +12,5 @@ cha_kabuさんの[baseline](https://prob.space/competitions/spam_mail/discussion
 不均衡データでも高いf値が出ていたMultinomialNBモデルを使用しました   
 ### Postprocessing
 テストデータのスパムメールの確率上位17000件をスパムメールとしました  
+### Result
+![](https://user-images.githubusercontent.com/63792861/105112014-76bd1780-5b05-11eb-848f-95bc652fc897.png)
